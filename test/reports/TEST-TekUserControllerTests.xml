@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="plagueis.local" name="TekUserControllerTests" tests="1" time="0.086" timestamp="2010-03-08T00:20:31">
+  <properties />
+  <testcase classname="TekUserControllerTests" name="testSomething" time="0.085" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="plagueis.local" name="TaskServiceTests" tests="1" time="0.75" timestamp="2010-03-08T00:20:41">
+  <properties />
+  <testcase classname="TaskServiceTests" name="testAddDefaultTasks" time="0.656" />
+  <system-out><![CDATA[--Output from testAddDefaultTasks--
+]]></system-out>
+  <system-err><![CDATA[--Output from testAddDefaultTasks--
+]]></system-err>
+</testsuite>

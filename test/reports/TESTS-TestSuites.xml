@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="0" name="MessageTests" package="" tests="1" time="0.116" timestamp="2010-03-08T00:20:30">
+      <properties />
+
+      <testcase classname="MessageTests" name="testSomething" time="0.116" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="1" name="SponsorControllerTests" package="" tests="1" time="0.742" timestamp="2010-03-08T00:20:30">
+      <properties />
+
+      <testcase classname="SponsorControllerTests" name="testSomething" time="0.742" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="2" name="SponsorTests" package="" tests="1" time="0.0060" timestamp="2010-03-08T00:20:31">
+      <properties />
+
+      <testcase classname="SponsorTests" name="testSomething" time="0.0060" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="3" name="SponsorshipTests" package="" tests="1" time="0.0030" timestamp="2010-03-08T00:20:31">
+      <properties />
+
+      <testcase classname="SponsorshipTests" name="testSomething" time="0.0030" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="4" name="TaskServiceTests" package="" tests="1" time="0.75" timestamp="2010-03-08T00:20:41">
+      <properties />
+
+      <testcase classname="TaskServiceTests" name="testAddDefaultTasks" time="0.656" />
+
+      <system-out><![CDATA[--Output from testAddDefaultTasks--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testAddDefaultTasks--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="5" name="TaskTests" package="" tests="1" time="0.0050" timestamp="2010-03-08T00:20:31">
+      <properties />
+
+      <testcase classname="TaskTests" name="testSomething" time="0.0050" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="6" name="TekEventControllerTests" package="" tests="1" time="0.092" timestamp="2010-03-08T00:20:31">
+      <properties />
+
+      <testcase classname="TekEventControllerTests" name="testSomething" time="0.092" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="7" name="TekEventTests" package="" tests="1" time="0.094" timestamp="2010-03-08T00:20:31">
+      <properties />
+
+      <testcase classname="TekEventTests" name="testToString" time="0.094" />
+
+      <system-out><![CDATA[--Output from testToString--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testToString--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="8" name="TekUserControllerTests" package="" tests="1" time="0.086" timestamp="2010-03-08T00:20:31">
+      <properties />
+
+      <testcase classname="TekUserControllerTests" name="testSomething" time="0.085" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="plagueis.local" id="9" name="TekUserTests" package="" tests="1" time="0.0040" timestamp="2010-03-08T00:20:31">
+      <properties />
+
+      <testcase classname="TekUserTests" name="testSomething" time="0.0040" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
